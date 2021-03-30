@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134823231509",
+    "project_id": "test-ca09d",
+    "storage_bucket": "test-ca09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134823231509:android:f3deae3e84bf24ca70ce1c",
+        "android_client_info": {
+          "package_name": "com.example.firehot2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134823231509-a1ivgm7r6d17oln7a8bdak3tfgqg279k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMtojzarOyT8g5UGr85LLDqlvtP7huqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134823231509-a1ivgm7r6d17oln7a8bdak3tfgqg279k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
